@@ -1,4 +1,11 @@
 # Portolio
+
+## About this project
+This project is for my portfolio to represent at the ned of the coding bootcamp for all employers to see
+
+I will be updating this as time goes on. 
+
+
 ## User Story
 
 ```
